@@ -1,0 +1,23 @@
+{
+  "name": "ecmascript-training",
+  "version": "1.0.0",
+  "description": "ecmascript-training",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Abdessalam98/ecmascript-training.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Abdessalam98/ecmascript-training/issues"
+  },
+  "homepage": "https://github.com/Abdessalam98/ecmascript-training#readme",
+  "devDependencies": {
+    "eslint": "^5.12.1"
+  }
+}
