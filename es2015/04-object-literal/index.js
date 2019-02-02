@@ -1,11 +1,10 @@
-/* eslint-disable no-console */
 function fullName(firstName, lastName) {
-    const fullName = {firstName, lastName};
+    const fullName = { firstName, lastName };
     return fullName;
 }
 
 function greeting(name) {
-    const {firstName, lastName} = name;
+    const { firstName, lastName } = name;
 
     const myGreeting = {
         firstName,
